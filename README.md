@@ -18,7 +18,7 @@ This project is built using **ReactJS** for the front-end, **Spring Boot** for t
 ## Technologies Used
 
 - **ReactJS**: For building an interactive front-end user interface with real-time updates.
-- **Spring Boot**: For developing the back-end services that handle business logic and data processing.
+- **NodeJS**: For developing the back-end services that handle business logic and data processing.
 - **MongoDB**: NoSQL database used for storing user data and financial information.
 - **D3.js**: Data visualization library for creating interactive and dynamic graphs and charts.
 - **Firebase**: Provides real-time database features, authentication, and cloud functions.
